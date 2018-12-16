@@ -19,6 +19,7 @@
     "webpack-dev-server": "^2.9.1"
   },
   "dependencies": {
+    "and": "0.0.3",
     "babel-core": "^6.22.1",
     "babel-loader": "^7.1.2",
     "babel-preset-airbnb": "^2.1.1",
@@ -29,13 +30,16 @@
     "chai": "^4.1.2",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.0.1",
+    "es6-promise": "^4.2.5",
     "fetch-mock": "^6.5.2",
     "isomorphic-fetch": "^2.2.1",
     "mocha-multi": "^1.0.1",
     "node-fetch": "^2.2.0",
+    "npm": "^6.5.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "sinon": "^6.1.4"
+    "sinon": "^6.1.4",
+    "start": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
